@@ -1,0 +1,1 @@
+Trong Makefile, sửa đường dẫn của common.mk cho đúng với thư mục /esp-open-rtos/common.mk
