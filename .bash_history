@@ -23,3 +23,4 @@ cd ..
 cd ..
 git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
 git clone --recursive https://github.com/Superhouse/esp-open-rtos.git
+ls

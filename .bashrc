@@ -192,3 +192,5 @@
 export PATH="$HOME/xtensa-lx106-elf/bin/:$PATH"
 export PATH="$HOME/esp-open-sdk/esptool:$PATH"
 export PATH="/mingw32/bin:$PATH"
+alias code="/c/Users/Quang/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code"
+export ESP_RTOS="$HOME/esp-open-rtos"
