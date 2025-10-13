@@ -1,0 +1,25 @@
+build/core//esp_phy.o: C:/msys32/home/Quang/esp-open-rtos/core/esp_phy.c \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/phy.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/types.h \
+ C:/msys32/home/Quang/esp-open-rtos/libc/xtensa-lx106-elf/include/stdint.h \
+ C:/msys32/home/Quang/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ C:/msys32/home/Quang/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/features.h \
+ C:/msys32/home/Quang/esp-open-rtos/libc/xtensa-lx106-elf/include/_newlib_version.h \
+ C:/msys32/home/Quang/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_intsup.h \
+ C:/msys32/home/Quang/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_stdint.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/common_macros.h \
+ C:/msys32/home/Quang/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/gpio.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/gpio_regs.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/rtc_regs.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/iomux.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/iomux_regs.h \
+ C:/msys32/home/Quang/esp-open-rtos/core/include/esp/interrupts.h \
+ C:/msys32/home/Quang/esp-open-rtos/FreeRTOS/Source/portable/esp8266/xtruntime.h \
+ C:/msys32/home/Quang/esp-open-rtos/include/xtensa/config/core.h \
+ C:/msys32/home/Quang/esp-open-rtos/include/xtensa/hal.h \
+ C:/msys32/home/Quang/esp-open-rtos/include/xtensa/config/core-isa.h \
+ C:/msys32/home/Quang/esp-open-rtos/include/xtensa/config/core-matmap.h \
+ C:/msys32/home/Quang/esp-open-rtos/include/xtensa/config/tie.h \
+ C:/msys32/home/Quang/esp-open-rtos/include/xtensa/config/specreg.h \
+ C:/msys32/home/Quang/esp-open-rtos/include/xtensa/corebits.h
